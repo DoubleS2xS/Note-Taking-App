@@ -3,6 +3,9 @@
 A lightweight, responsive, and theme-switchable Note Taking App built with HTML, CSS, and JavaScript.
 Easily add, edit, and delete notes with a clean user interface and persistent local storage.
 
+## DEMO
+https://doubles2xs.github.io/Note-Taking-App/
+
 ## ✨ Features
 
 - ➕ Add Notes — Create notes with a title and content.
